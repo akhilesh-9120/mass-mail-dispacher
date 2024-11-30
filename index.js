@@ -94,9 +94,9 @@ Email.send({
 
 Host: "smtp.elasticemail.com",
 
-Username: "akhileshdubey0202@gmail.com",
+Username: "dubeyumang1@gmail.com",
 
-Password: "C728F0696F6455DB92F2B90E7A0E524140A8",
+Password: "C0A8060F2D274CA9CB83F15E0CFD90674167",
 To: "akhileshdubey0202@gmail.com",
 
 From: "akhileshdubey0202@gmail.com",
